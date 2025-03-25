@@ -12,6 +12,6 @@
 
 ## Instructions
 
--mix dry ingredients
--Heat milk until bubbling
--add dry ingredients and stir until thick
+- mix dry ingredients
+- Heat milk until bubbling
+- add dry ingredients and stir until thick
